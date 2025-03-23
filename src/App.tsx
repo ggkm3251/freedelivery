@@ -14,15 +14,15 @@ const products: Product[] = [
     id: 1,
     name: "Fresh Vegetables Pack",
     price: 599,
-    category: "Groceries",
-    image: "https://images.unsplash.com/photo-1566385101042-1a0aa0c1268c?auto=format&fit=crop&q=80&w=400"
+    category: "Household Items",
+    image: "https://unsplash.com/photos/a-basket-filled-with-lots-of-different-types-of-tools-HqISedjQc-A?auto=format&fit=crop&q=80&w=400"
   },
   {
     id: 2,
     name: "Essential Fruits Bundle",
     price: 799,
-    category: "Groceries",
-    image: "https://images.unsplash.com/photo-1610832958506-aa56368176cf?auto=format&fit=crop&q=80&w=400"
+    category: "Food",
+    image: "https://unsplash.com/photos/grilled-meat-and-vegetable-on-the-table-UC0HZdUitWY?auto=format&fit=crop&q=80&w=400"
   },
   {
     id: 3,
